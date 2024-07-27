@@ -3060,7 +3060,7 @@ input, select, textarea {
 			}
 
 				.spotlight .image img {
-					width: 12em;
+					width: 20em;
 				}
 
 		}
@@ -3562,7 +3562,7 @@ input, select, textarea {
 			}
 
 		#main table th {
-			color: #636363;
+			color: #706d6d;
 		}
 
 		#main table thead {
@@ -3578,7 +3578,7 @@ input, select, textarea {
 		}
 
 		#main .spotlight .image {
-			border-color: #dddddd;
+			border-color: #fefafa;
 		}
 
 		#main > .main {
